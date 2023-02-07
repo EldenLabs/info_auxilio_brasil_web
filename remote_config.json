@@ -1,0 +1,9 @@
+{
+  "showAds":false,
+  "adsInterval":30,
+  "showAppOpenAd":true,
+  "showFirstAd":true,
+  "showTestAds":true,
+  "interstitialAdUnit":"",
+  "openAppAdUnitId":""
+}
