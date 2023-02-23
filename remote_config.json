@@ -2,7 +2,7 @@
   "showAds":true,
   "adsInterval":45,
   "showAppOpenAd":true,
-  "showFirstAd":true,
+  "showFirstAd":false,
   "showInterstitial":true,
   "showTestAds":false,
   "showBannerAds":true,
