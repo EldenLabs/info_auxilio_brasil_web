@@ -6,7 +6,7 @@
   "showInterstitial":true,
   "showTestAds":false,
   "showBannerAds":true,
-  "bannerAdUnit":"ca-app-pub-7996006950744275/3105360667",
-  "interstitialAdUnit":"ca-app-pub-7996006950744275/3553735611",
-  "openAppAdUnitId":"ca-app-pub-7996006950744275/5348380626"
+  "bannerAdUnit":"/22405025169,22870746737/com.eldenlabs.auxilio.brasil.info.Banner",
+  "interstitialAdUnit":"/22405025169,22870746737/com.eldenlabs.auxilio.brasil.info.Interstitial",
+  "openAppAdUnitId":"/22405025169,22870746737/com.eldenlabs.auxilio.brasil.info.AppOpen"
 }
